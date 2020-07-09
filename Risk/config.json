@@ -1,0 +1,36 @@
+{
+    "SecretKey": "get me from vault",
+    "AccessKeyId": "get me from vault",
+    "PolicyCriticality": {
+      "Critical": 5.0,
+      "High": 4.0,
+      "Medium": 3.0,
+      "Low": 2.0,
+      "Info": 1.0
+    },
+    "EnvironmentCriticality": {
+      "earnest": 10,
+      "est-tools": 8,
+      "est-staging": 5,
+      "e-development": 2
+    },
+    "Accounts": [
+        {
+      "accountName": "earnest",
+        "accountNumber": "075440130607"
+      },
+      {
+      "accountName": "est-staging",
+        "accountNumber": "831351477977"
+      },
+      {
+      "accountName": "est-tools",
+        "accountNumber": "207527566065"
+      },
+      {
+      "accountName": "e-development",
+        "accountNumber": "747722821363"
+      }
+      ]
+
+  }

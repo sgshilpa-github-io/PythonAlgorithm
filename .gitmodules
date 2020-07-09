@@ -1,0 +1,3 @@
+[submodule "RiskScore"]
+	path = RiskScore
+	url = https://github.com/sgshilpa-github-io/PythonAlgorith/RiskScore
